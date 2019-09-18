@@ -1,0 +1,11 @@
+Search:
+https://toolbox.google.com/datasetsearch
+
+https://www.kaggle.com/datasets
+https://ai.google/tools/datasets/   # has links to other datasets.. 
+https://console.cloud.google.com/marketplace/browse?filter=solution-type:dataset&filter=category:climate
+https://towardsdatascience.com/top-10-great-sites-with-free-data-sets-581ac8f6334
+   https://www.quandl.com/search
+   https://www.data.gov
+   https://fivethirtyeight.com
+   https://data.world/
