@@ -9,3 +9,7 @@ https://towardsdatascience.com/top-10-great-sites-with-free-data-sets-581ac8f633
    https://www.data.gov
    https://fivethirtyeight.com
    https://data.world/
+https://datahub.io
+https://www.reddit.com/r/datasets/
+https://archive.ics.uci.edu/ml/index.php
+http://academictorrents.com 
